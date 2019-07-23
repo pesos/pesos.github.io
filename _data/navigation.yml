@@ -1,4 +1,7 @@
 header:
+  - title: Blog
+    url: /blog/
+
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
