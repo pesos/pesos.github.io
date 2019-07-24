@@ -1,4 +1,13 @@
 header:
+  - title: Blog
+    url: /blog/
+
+  - title: Getting Started
+    url: /get-started/
+
+  - title: Resources
+    url: /resources/
+
   - titles:
       en      : &EN       Archive
       en-GB   : *EN
@@ -32,3 +41,6 @@ header:
       ko      : &KO       소개
       ko-KR   : *KO
     url: /about.html
+
+  - title: Contact
+    url: /contact/

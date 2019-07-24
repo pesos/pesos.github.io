@@ -1,3 +1,35 @@
 /* start custom scss snippet */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+}
 
+code, pre {
+    font-size: 1rem;
+}
+
+.menu a.button {
+    margin-right: 2rem;
+}
+
+.article__header--overlay .overlay__excerpt {
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+
+.article__header {
+    margin-bottom: 0.7rem;
+}
+
+textarea {
+    padding: 0.7rem;
+    margin: 0.4rem 0 0.4rem 0;
+    border: 2px solid #94b498;
+}
+
+input {
+    padding: 0.7rem;
+    border: 2px solid #94b498;
+}
 /* end custom scss snippet */
