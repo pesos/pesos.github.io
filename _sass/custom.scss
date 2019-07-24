@@ -3,7 +3,22 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Source Code Pro', monospace;
     font-weight: 400;
 }
+
 code, pre {
     font-size: 1rem;
+}
+
+.menu a.button {
+    margin-right: 2rem;
+}
+
+.article__header--overlay .overlay__excerpt {
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+}
+
+.article__header {
+    margin-bottom: 0.7rem;
 }
 /* end custom scss snippet */
