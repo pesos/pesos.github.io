@@ -44,3 +44,23 @@ header:
 
   - title: Contact
     url: /contact/
+
+get-started:
+  - title: About Open Source
+    children:
+    - title: Open Source 101
+      url: /get-started/
+    - title: What's in it for me
+      url: /get-started/whats-in-it-for-me.md
+  - title: About PES Open Source
+    children:
+    - title: Our Goals and Activities
+      url: /get-started/what-we-do.md
+    - title: How to join PES Open Source
+      url: /get-started/join.md
+    - title: Your Expectations As A Member
+      url: /get-started/expectations.md
+  - title: Our Communication Channels
+    children:
+    - title: Slack, Mailing List and Social Media
+      url: /get-started/communication-channels.md
