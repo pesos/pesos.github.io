@@ -51,16 +51,16 @@ get-started:
     - title: Open Source 101
       url: /get-started/
     - title: What's in it for me
-      url: /get-started/whats-in-it-for-me.md
+      url: /get-started/whats-in-it-for-me
   - title: About PES Open Source
     children:
     - title: Our Goals and Activities
-      url: /get-started/what-we-do.md
+      url: /get-started/what-we-do
     - title: How to join PES Open Source
-      url: /get-started/join.md
+      url: /get-started/join
     - title: Your Expectations As A Member
       url: /get-started/expectations.md
   - title: Our Communication Channels
     children:
     - title: Slack, Mailing List and Social Media
-      url: /get-started/communication-channels.md
+      url: /get-started/communication-channels

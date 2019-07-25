@@ -1,0 +1,67 @@
+---
+layout: article
+title: Why Should I Care About Open Source?
+tags: philosophy
+aside:
+  toc: true
+sidebar:
+  nav: get-started
+---
+
+Here we shall try to address *exactly* why you, as a college student, would want to care about Open Source. Here are some reasons:
+
+## Because The Industry Cares About Open Source
+
+> Virtually all (94%) of those who are employed use open source at least sometimes in their professional work (81% use it frequently), and 65% of those who contribute back do so as part of their work duties. — Github Open Source Survey 2017
+
+All the big players use Open Source. You name any big company, and it is very likely that they have made some or the other contribution to Open Source Software.
+Even Microsoft, once considered the "biggest enemy" of Open Source now emphatically goes around saying "Microsoft ❤️ Open Source".
+
+What started as a bunch of developers making stuff in their spare time without any formal structure or paycheck incentive now has led to the creation of tools that the industry cannot live without.
+
+The transparency in software development provided by open source is now often the default way in which software is made.
+
+So if you are looking to get a job in this industry, knowledge and experience in open source is highly valued.
+
+## Because It Is The Best Way To Learn
+
+> A 2018 survey of the GitHub Education community showed that 48% of students said using GitHub in the classroom helped make them feel like they belonged in the software development field. Welcome home. 
+
+Open Source circumvents the meritocracy-driven software development. *Anyone* can work on Open Source software. All you need to do is fork the code and start hacking away. You can get your hands dirty on Real Code by Real Developers and learn the best practices for software development.
+
+Not sure how people use an API? Just see someone who has already done it successfully!
+
+Not sure how people practically use a certain coding pattern? Just see how the pros do it!
+
+Not sure how to make a static website from scratch? Just take someone else's code and hack away the internals to make it yours! (This is what we did for this particular website)
+
+...and so on.
+
+But Open Source is not just limited to seeing somebody's code. Your changes can actually be merged back into the original code! Suppose you found a bug in an Open Source library you are using. You look into the code and see why it went wrong and manage to fix it. You can actually reach out to the original creator and he will improve the software for everyone! Your standing and reputation in the community and industry at large will be improved this way.
+
+You don't even have to wait for some bug in your software to fix yourself. You can go seek out the Issue Pages or Bug Trackers of your favourite software or libraries and look for ways to help out. Open Source communities are often very welcoming and would really appreciate your efforts. You also get credited for your work which is visible to your prospective employers.
+
+Open Source communities are also very happy to mentor you and help you out in your process of contributing. There is hardly a better way to improve your skills than this!
+
+## Because It Improves Your Soft Skills
+
+Open source almost always involves collaboratively working in teams. You can learn valuable social, leadership and management skills like resolving conflicts, organising teams and prioritising and planning work.
+
+Often it is things like these that make you stand out in the saturated pool of developers.
+
+## Because Open Source is Immensely Satisfying
+
+Open Source is *loved* by developers. 
+
+It is very fulfilling work as you get to have your say in the world's biggest software, or work on the next big idea. Your contributions have a real impact and it is immensely satisfying.
+
+You also get to meet like-minded people and you are sure to make valuable friends and improve your network along the way.
+
+## Come For The Prospects, Stay for the Community
+
+Sure, Open Source is useful for your skills and job prospects. Absolutely no denying that. But there is a special something about Open Source that transcends all of this.
+
+Open Source is the perfect example of Humans Being Awesome. Lifelong communities are created in Open Source. Cultural and geographical barriers are crossed. We work together to build a better world. It is incredible to see this amazing product that was initially born out of a spirit of sharing knowledge and true passion.
+
+Open Source very nicely embodies the African Philosophy of Ubuntu:\\
+**“I am what I am because of what we all are”**
