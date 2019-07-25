@@ -5,6 +5,7 @@ This website was created by Jekyll using the TeXt theme template.
 ### TODO
 - [ ] Populate `/resources` with our communication channels, and links/guides about Open Source stuff
 - [ ] Populate `/get-started` with a guide to what PES-OS is about, kind of like the blueprint but more engaging
+  - Use the sidebar links as reference
 - [ ] Change `about.html`
 - [ ] Clean up the sample posts from the Blog page
 - [ ] Get people to actually blog on this
