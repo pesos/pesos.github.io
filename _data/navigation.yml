@@ -3,7 +3,7 @@ header:
     url: /blog/
 
   - title: Getting Started
-    url: /get-started/
+    url: /get-started/101
 
   - title: Resources
     url: /resources/
@@ -48,19 +48,19 @@ header:
 get-started:
   - title: About Open Source
     children:
-    - title: Open Source 101
-      url: /get-started/
-    - title: What's in it for me
-      url: /get-started/whats-in-it-for-me
+      - title: Open Source 101
+        url: /get-started/101
+      - title: What's in it for me
+        url: /get-started/whats-in-it-for-me
   - title: About PES Open Source
     children:
-    - title: Our Goals and Activities
-      url: /get-started/what-we-do
-    - title: How to join PES Open Source
-      url: /get-started/join
-    - title: Your Expectations As A Member
-      url: /get-started/expectations.md
+      - title: Our Goals and Activities
+        url: /get-started/what-we-do
+      - title: How to join PES Open Source
+        url: /get-started/join
+      - title: Your Expectations As A Member
+        url: /get-started/expectations
   - title: Our Communication Channels
     children:
-    - title: Slack, Mailing List and Social Media
-      url: /get-started/communication-channels
+      - title: Slack, Mailing List and Social Media
+        url: /get-started/communication-channels
