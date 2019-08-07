@@ -1,8 +1,9 @@
 ---
+title: The Official PES Open Source Handbook
 layout: article
+aside:
+  toc: true
 ---
-
-# The Official PES Open Source Handbook
 
 This is like our constitution. This document determines how PES Open Source is governed.
 
@@ -49,19 +50,20 @@ The PES Open Source Code of Conduct can be found [here]().
     - **Event Coordinators**:
     They are the backbone of all events, and are expected to handle registrations, logistics and timing of events.
 
-#### TODO: Fix everything for the rest of this section (it's a mess as per my GitHub mentor)
+### Succession
 
-#### Succession
-
-- The roles of the new core committee will be appointed by the club heads who are graduating.
-- The new roles are to be decided by those members who are retiring that role. For example a graduating Technical Head decides the new Technical Head.
+- An election will be conducted to determine a new Core Committee to take over for the next academic year. Each of the above roles will be determined by the majority vote of the community. We would be following [alternative vote](https://en.wikipedia.org/wiki/Instant-runoff_voting) rather than a first-past-the-post system to ensure maximum community satisfaction.
+  - Voting is **compulsory** for all members. Members abstaining from voting without a valid reason will be stripped of their membership.
+  - Paper ballots will be used. (We would be open to experimental approaches like a blockchain-based voting application, if our community is up for making one ;) )
+  - There will be an election committee formed by members chosen at random during our election meeting.
+  - The counting will take place by the election committee members in the presence of all candidates standing for election and the winner will be determined.
+  > NOTE: While we should ideally have a large enough active membership to be able to conduct an election, it may not always be possible especially in our first year since us restarting this group. In such a case the current Core Committee will select the next Core Committee and set a target to reach higher membership numbers that can at least sustain an election. The criteria for succession in this method will be only if we cannot get more one candidate on a role and if there is an estimated turnout of less than 30 votes.
 - These roles are chosen before every even semester break and the last event organised before the break will be organised by the new committee under the mentorship of the old committee.
 - This new committee will also conduct the meet-ups under the supervision of the old community.
 
-#### In case of dissatisfaction with the Club Head
+### In case of dissatisfaction with the Club Head
 
-- This measure should be a last resort, but in case of overwhelming dissatisfaction of the community with the club head, they are allowed to fork the repository containing the code of conduct and mission statement and resume operations independently of the disowned club heads. New positions may be elected for the same.
-- **Note:** This measure should be taken only if over 80% of the members express dissatisfaction with the leadership.
+- Any member can start a motion to impeach in a general meet-up. If more than 60% vote for impeachment on a turnout of over 80%, then fresh elections will be held to determine a new Core Committee. This new Core Committee will be effective immediately and will *not* be required to be mentored by the Old Committee as per the usual protocol.
 
 ## Resources
 
