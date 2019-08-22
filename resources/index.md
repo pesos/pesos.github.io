@@ -16,5 +16,7 @@ layout: article
 - [You can't talk about Opensource without having Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Learn stuff through games](https://www.twilio.com/quest/missions)
 - [Intersting blog](https://www.hanselman.com/blog/GetInvolvedInOpenSourceTodayHowToContributeAPatchToAGitHubHostedOpenSourceProjectLikeCode52.aspx)
+- [What can I do for Mozilla](https://www.whatcanidoformozilla.org/)
+- [Contribute to Mozilla open source software](https://codetribute.mozilla.org/)
 
 -- more coming soon --
