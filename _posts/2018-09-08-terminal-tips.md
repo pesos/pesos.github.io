@@ -157,3 +157,15 @@ insert code here (if any)
 description about what your tip does with accompanying code snippet
 
 ---
+
+*Contributed by: Akshatha Laxmi*
+
+### Shorter way to run ./a.out
+    !.
+On executing command, ./a.out runs.
+
+### Create a file with date
+    touch filename`date +&d%m%y`
+This command creates a file with the date of the day. %d is for the day, %m is for month, %y is for year.
+
+---
