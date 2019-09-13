@@ -16,7 +16,7 @@ tags: linux, bash, compilation
 To avoid having a command added to your .bash_history file, prefix it with a space i.e. go with `  [command]` instead of `[command]`.
 
 ## Pausing and running commands
-Say, you have a terminal text editor open and you're in the process of editting it. You realize you want to test something out on the terminal.   
+Say, you have a terminal text editor open and you're in the process of editing it. You realize you want to test something out on the terminal.   
 Instead of closing and re-opening it, you could use `Ctrl+Z` to pause the application and return to the terminal; followed by the `fg` command to return to it.
 
 ## Running commands after logging out of an SSH session. 
