@@ -15,12 +15,14 @@ description about what your tip does with accompanying code snippet
 ### Stop/Start Displaying Terminal Input
     stty -echo
     stty echo
-When `stty -echo` is done, input in the terminal won't be displayed.
-When `stty echo` is done, input in the terminal will be displayed.
+When `stty -echo` is run, input in the terminal won't be displayed.
+When `stty echo` is run, input in the terminal will be displayed.
+![screenshot for stty](https://i.ibb.co/qkKG3wn/Screenshot-from-2019-09-13-20-12-12.png)
+
 
 ### Describe Filetype of File or Directory
     file [file/dir]
-The command describes the type of file/directory provided as a n argument along with a description of its contents.
+The command describes the type of file/directory provided as an argument along with a description of its contents.
 
 ### Create a typescript of terminal session
     script [dir/filename]
