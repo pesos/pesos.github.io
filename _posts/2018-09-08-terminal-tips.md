@@ -4,11 +4,14 @@ tags: linux, bash, compilation
 ---
 
 // Start your contributions here
+*Contributed by: <your name>*
 ### Title for the tip/code
     insert code here (if any)
-*Contributed by: <your name>*
 description about what your tip does with accompanying code snippet
 
+---
+
+*Contributed by: Bhargav SNV*
 ### Stop/Start Displaying Terminal Input
     stty -echo
     stty echo
