@@ -16,13 +16,14 @@ tags: linux, bash, compilation
 To avoid having a command added to your .bash_history file, prefix it with a space i.e. go with `  [command]` instead of `[command]`.
 
 ## Pausing and running commands
-Say, you have a terminal text editor open and you're in the process of editting it. You relaise you want to test something out on the terminal.   
-Instead of closing and re-opening it, you could use `Ctrl+Z` to suspend the application and return to the terminal; followd by the `fg` command to exit from it once done.
+Say, you have a terminal text editor open and you're in the process of editting it. You realize you want to test something out on the terminal.   
+Instead of closing and re-opening it, you could use `Ctrl+Z` to pause the application and return to the terminal; followed by the `fg` command to return to it.
 
 ## Running commands after logging out of an SSH session. 
-This one's for long commands in an SSH session.        
+This one's for long commands in an SSH session.     
+Nohup stands for 'no hangups'.   
 Prefixing `nohup` lets you run time-taking commands in an SSH session after log out too.   
-So a time-taking script.sh can be run remotely as `nohup ./script.sh`.
+So a time-taking script.sh can be run remotely as `nohup sh script.sh`.
 
 
 
