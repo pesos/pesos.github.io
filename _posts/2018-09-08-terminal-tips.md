@@ -17,8 +17,6 @@ description about what your tip does with accompanying code snippet
     stty echo
 When `stty -echo` is run, input in the terminal won't be displayed.
 When `stty echo` is run, input in the terminal will be displayed.
-![screenshot for stty](https://i.ibb.co/qkKG3wn/Screenshot-from-2019-09-13-20-12-12.png)
-
 
 ### Describe Filetype of File or Directory
     file [file/dir]
@@ -26,6 +24,29 @@ The command describes the type of file/directory provided as an argument along w
 
 ### Create a typescript of terminal session
     script [dir/filename]
-On executing the command, every command typed after it is logged and added to a typescript with the name `filename` in the destination described by `dir`.
+On executing the command, every command typed after it is logged and added to a typescript with the name `filename` in the destination described by `dir`. When we `cat filename`, the logged commands are executed again. Example:
+    
+    ~$ script script_file 
+    Script started, file is script_file
+    ~$ echo "hi this is in the script"
+    hi this is in the script
+    ~$echo "hello"
+    hello
+    ~$ exit
+    exit
+    Script done, file is script_file
+    ~$
+    ~$ cat script_file
+    Script started on 2019-09-14 08:34:06+05:30
+    ~$ echo "hi this is in the script"
+    hi this is in the script
+    ~$ echo "hello"
+    hello
+    # exit
+    exit
+
+    Script done on 2019-09-14 08:35:51+05:30
+
+Here, when we run `cat script_file`, the commands logged under it are directly executed.
 
 ---
