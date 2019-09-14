@@ -52,6 +52,7 @@ Say you accidentally change directories and want to return to the previous direc
 
 ---
 
+<<<<<<< HEAD
 ## Undoing a commit
 _Contributed by : Akhil E ([akhil-eppa](https://github.com/akhil-eppa))_  
 Sometimes you may commit the wrong files to the repository and may want to entirely undo a commit. This can be done using the following command  
@@ -73,6 +74,14 @@ $ git commit --amend -m "Added this file"
 ```  
 
 ---  
+=======
+*Contributed by: Bhargav SNV*
+### Stop/Start Displaying Terminal Input
+    stty -echo
+    stty echo
+When `stty -echo` is run, input in the terminal won't be displayed.
+When `stty echo` is run, input in the terminal will be displayed.
+>>>>>>> Update 2018-09-08-terminal-tips.md
 
 ## Syncing forked repository to the original repository
 _Consributed by : Akhil E ([akhil-eppa](https://github.com/akhil-eppa))_  
@@ -118,7 +127,32 @@ The command describes the type of file/directory provided as a n argument along 
 ```sh
 script [dir/filename]
 ```
-On executing the command, every command typed after it is logged and added to a typescript with the name `filename` in the destination described by `dir`.
+On executing the command, every command typed after it is logged and added to a typescript with the name `filename` in the destination described by `dir`. When we `cat filename`, the logged commands are executed again. Example:
+    
+```sh
+~$ script script_file 
+Script started, file is script_file
+~$ echo "hi this is in the script"
+hi this is in the script
+~$echo "hello"
+hello
+~$ exit
+exit
+Script done, file is script_file
+~$
+~$ cat script_file
+Script started on 2019-09-14 08:34:06+05:30
+~$ echo "hi this is in the script"
+hi this is in the script
+~$ echo "hello"
+hello
+# exit
+exit
+
+Script done on 2019-09-14 08:35:51+05:30
+```
+
+Here, when we run `cat script_file`, the commands logged under it are directly executed.
 
 ---
 
