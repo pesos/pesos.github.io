@@ -14,13 +14,13 @@ tags: linux, bash, compilation
 ---
 
 ### Checking the success status of a command
-   echo $?
+    echo $?
  This command is run to check if your previous command was successful or not.It returns 0 on success.
  
 ---
  
 ### Abbreviating a command
-   alias alias_name='command'
+    alias alias_name='command'
 alias command helps to launch any command or group of commands by entering a pre-set string.
 
 ---
