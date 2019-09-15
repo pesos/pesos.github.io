@@ -52,7 +52,6 @@ Say you accidentally change directories and want to return to the previous direc
 
 ---
 
-<<<<<<< HEAD
 ## Undoing a commit
 _Contributed by : Akhil E ([akhil-eppa](https://github.com/akhil-eppa))_  
 Sometimes you may commit the wrong files to the repository and may want to entirely undo a commit. This can be done using the following command  
@@ -74,14 +73,6 @@ $ git commit --amend -m "Added this file"
 ```  
 
 ---  
-=======
-*Contributed by: Bhargav SNV*
-### Stop/Start Displaying Terminal Input
-    stty -echo
-    stty echo
-When `stty -echo` is run, input in the terminal won't be displayed.
-When `stty echo` is run, input in the terminal will be displayed.
->>>>>>> Update 2018-09-08-terminal-tips.md
 
 ## Syncing forked repository to the original repository
 _Consributed by : Akhil E ([akhil-eppa](https://github.com/akhil-eppa))_  
@@ -116,7 +107,7 @@ When `stty echo` is done, input in the terminal will be displayed.
 ## Describe Filetype of File or Directory
 *Contributed by: Bhargav SNV*  
 ```sh
-file [file/dir]
+file [filetype or dirname]
 ```
 The command describes the type of file/directory provided as a n argument along with a description of its contents.
 
