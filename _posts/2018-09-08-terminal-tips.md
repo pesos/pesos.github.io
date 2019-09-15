@@ -3,8 +3,10 @@ title: Terminal tips from PES Open Source
 tags: linux, bash, compilation
 ---
 
-// Start your contributions here
+// Start your contributions here with this format
+
 *Contributed by: <your name>*
+    
 ### Title for the tip/code
     insert code here (if any)
 description about what your tip does with accompanying code snippet
@@ -19,8 +21,8 @@ When `stty -echo` is run, input in the terminal won't be displayed.
 When `stty echo` is run, input in the terminal will be displayed.
 
 ### Describe Filetype of File or Directory
-    file [file/dir]
-The command describes the type of file/directory provided as an argument along with a description of its contents.
+    file [filename or dirname]
+The command describes the type of file or directory provided as an argument along with a description of its contents.
 
 ### Create a typescript of terminal session
     script [dir/filename]
