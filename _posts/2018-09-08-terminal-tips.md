@@ -9,11 +9,11 @@ tags: linux, bash, compilation
 - Hit `Ctrl+R` and enter a word/phrase from a previously used super long command and it will retrieve the last used command with the term.  
 
 ## Reusing previous commands
-- `!!` is handy for reusing the previous command with the current one.  
-- `!?` uses the argument of the previous command with the current one.
+- `!!` is handy for reusing the previous command with the current command.  
+- `!?` uses the argument of the previous command with the current command.
 
 ## Bash history
-To avoid having a command added to your .bash_history file, prefix it with a space i.e. go with `  [command]` instead of `[command]`.
+To avoid having a command added to your .bash_history file, prefix it with a space i.e. go with `  [command]` instead of <code>&nbsp;[command]</code>.    
 
 ## Pausing and running commands
 Say, you have a terminal text editor open and you're in the process of editing it. You realize you want to test something out on the terminal.   
@@ -24,6 +24,10 @@ This one's for long commands in an SSH session.
 Nohup stands for 'no hangups'.   
 Prefixing `nohup` lets you run time-taking commands in an SSH session after log out too.   
 So a time-taking script.sh can be run remotely as `nohup sh script.sh`.
+
+## Returning to a previous directory without a pwd:      
+Say you accidentally change directories and want to return to the previous directory you were working in.     
+`cd -` takes you back to it.    
 
 
 
