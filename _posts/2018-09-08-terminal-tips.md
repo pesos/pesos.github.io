@@ -10,7 +10,7 @@ tags: linux, bash, compilation
 
 ## Reusing previous commands
 - `!!` is handy for reusing the previous command with the current command.  
-- `!?` uses the argument of the previous command with the current command.
+It's the command equivalent of the upper arrow key! 
 
 ## Bash history
 To avoid having a command added to your .bash_history file, prefix it with a space i.e. go with `  [command]` instead of <code>&nbsp;[command]</code>.    
