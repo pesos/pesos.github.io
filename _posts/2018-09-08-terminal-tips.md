@@ -147,6 +147,42 @@ Here, when we run `cat script_file`, the commands logged under it are directly e
 
 ---
 
+## Shorter way to run ./a.out
+*Contributed by: Akshatha Laxmi*  
+```sh
+!.
+```
+On executing command, ./a.out runs.
+
+---
+
+## Compressing multiple files using gzip
+*Contributed by: Ramya*  
+```sh
+cat [file1] [file2] | gzip > [file3.gz]
+```
+'gzip' command is used to compress/truncate and decompress files. To compress multiple files together you can use the 'cat' and 'gzip' command with pipe command(lets you use two or more commands such that output of one command serves as the input of the other).This command create a compressed file file3.gz which has contents of both the files.
+
+---
+
+## Checking the success status of a command
+*Contributed by: Ramya*  
+```sh
+echo $?
+```
+ This command is run to check if your previous command was successful or not.It returns 0 on success.
+
+---
+ 
+## Abbreviating a command
+*Contributed by: Ramya*  
+```sh
+alias alias_name='command'
+```
+alias command helps to launch any command or group of commands by entering a pre-set string.
+
+---
+
 **Note: Please copy this format for further tips. Place your tip before this sample**  
 
 ## Title for the tip/code
@@ -155,17 +191,5 @@ Here, when we run `cat script_file`, the commands logged under it are directly e
 insert code here (if any)
 ```
 description about what your tip does with accompanying code snippet
-
----
-
-*Contributed by: Akshatha Laxmi*
-
-### Shorter way to run ./a.out
-    !.
-On executing command, ./a.out runs.
-
-### Create a file with date
-    touch filename`date +&d%m%y`
-This command creates a file with the date of the day. %d is for the day, %m is for month, %y is for year.
 
 ---
