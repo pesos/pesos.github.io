@@ -32,7 +32,7 @@ This command creates a file with the date of the day. %d is for the day, %m is f
     export PS1="MyPrompt >"  
 This let's you edit your prompt text to anything you'd like! Example:
     
-    root@kali:~# export PS1="MyPrompt >"  
+    root@ubuntu:~# export PS1="MyPrompt >"  
     Myprompt >  
     
 ### Stop/Start Displaying Terminal Input
