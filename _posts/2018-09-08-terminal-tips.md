@@ -156,6 +156,26 @@ On executing command, ./a.out runs.
 
 ---
 
+## Create a file with date
+*Contributed by: Akshatha Laxmi*  
+```sh
+touch filename`date +&d%m%y`
+```
+This command creates a file with the date of the day. %d is for the day, %m is for month, %y is for year.
+
+---
+
+## Display certain parts of a text file
+*Contributed by: Akshatha Laxmi*  
+```sh
+cat -n filename.txt | sed '11d'
+cat -. filename.txt | sed '11!d'
+```
+The first command prints everything but line number 11.   
+The second command prints only line number 11.
+
+---
+
 ## Compressing multiple files using gzip
 *Contributed by: Ramya*  
 ```sh
