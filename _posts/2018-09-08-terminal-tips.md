@@ -95,5 +95,16 @@ Finally to reflect these changes in your remote repository from your local repos
 
 ---
 
+*Contributed by: Rithik*
+    
+### Reuse the previous command in present command
+    ~$ apt install vlc-bin
+    E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+    E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+    ~$ sudo !!
+    sudo apt install vlc-bin
+    [sudo] password for abc: 
 
+You can call the entire previous command with !!. This comes particularly useful when you have to run a command and realize that it needs root privileges.
 
+---
