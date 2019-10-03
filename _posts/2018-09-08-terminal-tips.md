@@ -95,5 +95,20 @@ Finally to reflect these changes in your remote repository from your local repos
 
 ---
 
+*Contributed by: Ramya CP*
 
+### Reverse search
+    ctrl+r search_term    
+You can use the keys ctrl+r to initiate reverse search and type some part of the command. It will look up into the history and will show you the commands that matches the search term.To see more results matching your search term, you will have to use ctrl+r again and again. To quit reverse search, just use Ctrl+C.
+
+### Finding a specified file
+    find <folder-to-search> -name <file-name>
+    find <folder-to-search> -iname <file-name>
+To find a file matching the specified criteria in the given location.You can use find <folder-to-search> -name <file-name> its ‘-name’ option to make a case sensitive search and find <folder-to-search> -iname <file-name> to make a case-insensitive search for files with the given file names.
+   
+### Running Proccesses
+    ps
+ps displays information about the running processes of the system
+
+---
 
