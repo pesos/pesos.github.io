@@ -9,7 +9,13 @@ tags: linux, bash, compilation
 - Hit `Ctrl+R` and enter a word/phrase from a previously used super long command and it will retrieve the last used command with the term.  
 
 ## Reusing previous commands
-- `!!` is handy for reusing the previous command with the current command.  
+- `!!` is always substituted by the previous command.  
+```
+$ sh /etc/script.sh
+mv: cannot execute '/etc/script.sh': Permission denied
+$ sudo !!
+Script executed.
+``` 
 It's the command equivalent of the upper arrow key! 
 
 ## Bash history
