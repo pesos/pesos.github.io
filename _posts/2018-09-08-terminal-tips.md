@@ -97,9 +97,9 @@ Finally to reflect these changes in your remote repository from your local repos
 
 *Contributed by: Ramya CP*
 
-### Reverse search
-    ctrl+r search_term    
-You can use the keys ctrl+r to initiate reverse search and type some part of the command. It will look up into the history and will show you the commands that matches the search term.To see more results matching your search term, you will have to use ctrl+r again and again. To quit reverse search, just use Ctrl+C.
+### Information about Disk space on file system
+    df
+Gives information about the disk space of your file system.its widely used to monitor and anlayze real-time servers or network oriented systems.
 
 ### Finding a specified file
     find <folder-to-search> -name <file-name>
