@@ -119,4 +119,5 @@ Navigate to the git_playground folder.
 ### Difference between forking a repository and creating a branch
 
 Each fork of the main repo corresponds to a contributor's work. A fork is really a Github (not git) construct to store a clone of the repo in your user account. As a clone, it will contain all the branches in the main repo at the time you made the fork.
+
 Each branch within the fork and/or in the main repo can correspond to several kinds of things, depending on how you want to work. Each branch could refer to a version of the project but can also correspond to different channels of development, like hotfixes or experimental work. Hence, it is important to create branches and work on your code, and then merge it when you’re done so as to not affect anyone else’s work(others who are working with the same repository).
