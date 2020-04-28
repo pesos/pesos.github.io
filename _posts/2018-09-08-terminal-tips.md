@@ -147,6 +147,20 @@ Here, when we run `cat script_file`, the commands logged under it are directly e
 
 ---
 
+## Change command prompt
+*Contributed by: Bhargav SNV*  
+```sh
+export PS1="MyPrompt >"  
+```
+This let's you edit your prompt text to anything you'd like! Example:
+
+```sh
+root@ubuntu:~# export PS1="MyPrompt >"  
+Myprompt >  
+```
+
+---
+
 ## Shorter way to run ./a.out
 *Contributed by: Akshatha Laxmi*  
 ```sh
