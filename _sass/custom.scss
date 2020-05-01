@@ -33,4 +33,9 @@ input {
     padding: 0.7rem;
     border: 2px solid #94b498;
 }
+
+li.toc-h3 a, li.toc-h2 a{
+    white-space: pre-wrap;
+}
+
 /* end custom scss snippet */
