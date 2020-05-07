@@ -214,16 +214,3 @@ echo $?
 alias alias_name='command'
 ```
 alias command helps to launch any command or group of commands by entering a pre-set string.
-
----
-
-**Note: Please copy this format for further tips. Place your tip before this sample**  
-
-## Title for the tip/code
-*Contributed by: <your name>*  
-```sh
-insert code here (if any)
-```
-description about what your tip does with accompanying code snippet
-
----
