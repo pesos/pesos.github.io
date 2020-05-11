@@ -2,8 +2,8 @@ header:
   - title: Blog
     url: /blog/
 
-  - title: Hacktoberfest
-    url: /hacktoberfest/
+  # - title: Hacktoberfest
+  #   url: /hacktoberfest/
 
   - title: Getting Started
     url: /get-started/101
