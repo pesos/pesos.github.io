@@ -1,6 +1,6 @@
 ---
 title: Terminal tips from PES Open Source
-tags: linux, bash, compilation
+tags: linux bash compilation
 ---
 
 ## Short tricks for long commands
