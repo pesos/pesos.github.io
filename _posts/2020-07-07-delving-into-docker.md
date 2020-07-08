@@ -1,3 +1,10 @@
+---
+ title: "Delving into Docker"
+ tags: docker containers
+ author: Bhargav SNV Aditi Ahuja
+ show_author_profile: true
+ ---
+
 Introduction
 ============
 
@@ -41,7 +48,7 @@ Is an image the same as a virtual machine? Absolutely not! Docker containers run
 
 As we can see here, in the case of a docker container, only the required application along with it's dependencies are bundled up into an image. While in the case of a VM, we have the heavy overhead of an entire Operating System associated with every image!
 
-Why use docker and docker containers?
+Why use Docker and containers?
 -------------------------------------
 
 We've seen the benefits of using Docker and Docker containers, but how would these fit into the real world?
@@ -50,7 +57,7 @@ We've seen the benefits of using Docker and Docker containers, but how would the
 
 -	Kubernetes: Kubernetes is a platform to run and manage containerised applications, often running many containers together in dynamic environments. It helps running cloud native apps and makes use of Docker internally. A containerised app is lightweight and easily deployed to the cloud. Since they are isolated, they can be easily scaled by just bringing up more containers (sort of)!
 
-Hands on: Getting familiar with the basics
+Hands on:Get familiar with the basics
 ==========================================
 
 Let's get our hands dirty!
@@ -157,7 +164,7 @@ COPY ./file.txt ./
 CMD ["python", "-m", "SimpleHTTPServer", "8000"]
 ```
 
-Building custom docker files
+Building custom Dockerfiles
 ============================
 
 Now that we have a Dockerfile ready, the next thing to do is to build it. This is as simple as running the below command:
