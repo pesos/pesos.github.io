@@ -2,6 +2,7 @@
 title: "Living in the Terminal"
 tags: terminal linux
 author: Anirudh H M
+show_author_profile: true
 ---
 
 Many new Linux users have the same first question: Why is everything done on the terminal? Indeed, computer graphics have come a long way, and with flashy GUIs available on other operating systems, Linux seems prehistoric and daunting to many new users. However, anyone who's taken the effort to get comfortable with the terminal will tell you that it is almost always the faster, more efficient option. Just think of how much time can be saved by being able to do everything from one application! To make things easier, here's a list of nice terminal applications for various uses.
