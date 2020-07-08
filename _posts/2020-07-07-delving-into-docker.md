@@ -1,7 +1,7 @@
 ---
  title: "Delving into Docker"
  tags: docker containers
- author: Bhargav SNV Aditi Ahuja
+ author: Bhargav SNV and Aditi Ahuja
  show_author_profile: true
 ---
 
