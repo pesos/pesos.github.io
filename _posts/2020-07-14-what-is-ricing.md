@@ -35,6 +35,8 @@ The first kind of people are what most of you would fall under, at least I hope 
 	Ricing follows the same principle, make your system do and look like however you want. Don't like how it looks? Redo it or maybe change a few aspects! You have so many choices that many a days go by when I start ricing. It could be the simplest or the most complex, but it all depends on you. It is what you want to do. 
 	The philosophy of ricing , at least this is what I believe, is that you have all the freedom to make your system the way you want. People who are indifferent to it, at least give it a try. I promise you won't regret it. 
 
+![]({{pesos.github.io}}assets/images/rofi.png)
+
 How do I rice?
 --------------
 To answer this, I'll give a rough overview. Albeit to common suggestion, you don't have to necessarily use Arch Linux, Void Linux, Nix OS, Gentoo, or BSDs to rice your systems. These distros have amazing user contributed packages and/or are not traditionally installed. Most of these are customized from the very beginning, you get to choose what you put in your system and you aren't given anything but a plaform to start building. In this case, the distros are the platforms and the packages are a mall of all lego blocks and you get to build whatever you want with it. 
