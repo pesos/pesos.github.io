@@ -17,7 +17,7 @@ The people who "riced" their vehicles were referred to as "rice boy" in the US. 
 
 Now you might be wondering, "Why am I being given a history lesson about cars and Asians, when all I wanted was what is ricing in Linux". Well because it's interesting and also it plays a vital role in the term "RICE"
 
-![]({{pesos.github.io}}assets/images/mustang-via-automationgame-com.jpg)
+![](/assets/images/mustang-via-automationgame-com.jpg)
 
 "RICE" in the LINUX/UNIX side of things
 ---------------------------------------
@@ -27,7 +27,7 @@ This lead to people getting frustrated by the amount of work they did to achieve
  
 You might be wondering, "Ok, seems like this is for nerds and geeks, not for just about anyone" or "Why would I need to rice?". Bear with me as I'll try to my best to answer both.
 
-![]({{pesos.github.io}}assets/images/anAwesomeWMRice.png)
+![](/assets/images/anAwesomeWMRice.png)
 
 Why should you rice?
 --------------------
@@ -41,7 +41,7 @@ Ricing follows the same principle, make your system do and look like however you
 
 The philosophy of ricing , at least this is what I believe, is that you have all the freedom to make your system the way you want. People who are indifferent to it, at least give it a try. I promise you won't regret it. 
 
-![]({{pesos.github.io}}assets/images/rofi.png)
+![](/assets/images/rofi.png)
 
 How do I rice?
 --------------
