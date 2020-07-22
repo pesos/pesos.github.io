@@ -63,4 +63,4 @@ Conclusion
 -----------
 If you have reached this far, thanks a lot! I'll end it with a few screenshots and configurations of my own system. To infinity and beyond!
 
-[My Dotfiles](github.com/psiayn/dotfiles)
+[My Dotfiles](https://github.com/psiayn/dotfiles)
