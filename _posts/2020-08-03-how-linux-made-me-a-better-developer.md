@@ -2,6 +2,7 @@
 title: "How Linux made me a better developer"
 tags: terminal linux
 author: Anirudh H M
+show_author_profile: true 
 ---
 
 *Disclaimer*: Some parts of this post may seem exaggerated to some of you, but it is a (mostly) accurate description of my experience with switching to Linux. Consider it mostly opinionated
