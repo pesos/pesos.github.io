@@ -161,12 +161,13 @@ Myprompt >
 
 ---
 
-## Shorter way to run ./a.out
+## Running the most recent command starting with a certain character
 *Contributed by: Akshatha Laxmi*  
 ```sh
 !.
 ```
-On executing command, ./a.out runs.
+On executing this command, ```./a.out``` runs, if the most recent command starting with ```.``` was ```./a.out```.   
+Similarly, running ``` !e ``` would run ```echo hello``` if the most recent command starting with ```e``` was ```echo hello```.   
 
 ---
 
