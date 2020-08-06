@@ -4,6 +4,8 @@ header:
 
   # - title: Hacktoberfest
   #   url: /hacktoberfest/
+  - title: Projects
+    url: /projects
 
   - title: Getting Started
     url: /get-started/101
@@ -67,3 +69,21 @@ get-started:
     children:
       - title: Slack, Mailing List and Social Media
         url: /get-started/communication-channels
+  - title: PES Open Source Projects
+    children:
+      - title: Build Amazing Things With Us!
+        url: /projects
+
+projects:
+  - title: PES Open Source Projects
+    children:
+      - title: Build Amazing Things With Us!
+        url: /projects
+  - title: Grofer
+    children:
+      - title: About Grofer
+        url: /projects/about-grofer
+  - title: Rshark
+    children:
+      - title: About Rshark
+        url: /projects/about-rshark
