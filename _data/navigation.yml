@@ -87,3 +87,8 @@ projects:
     children:
       - title: About Rshark
         url: /projects/about-rshark
+  - title: browser-history
+    children:
+      - title: About browser-history
+        url: /projects/about-browser-history
+
