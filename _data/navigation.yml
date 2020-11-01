@@ -79,6 +79,8 @@ projects:
     children:
       - title: Build Amazing Things With Us!
         url: /projects
+      - title: Project Listing
+        url: /project-listing
   - title: Grofer
     children:
       - title: About Grofer
