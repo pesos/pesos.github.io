@@ -98,7 +98,7 @@ chart: # false (default), true
 ## => Paginate
 ##############################
 paginate: 8
-paginate_path: /bhttps://pesos.github.io/log/page:num # don't change this unless for special need
+paginate_path: /blog/page:num # don't change this unless for special need
 
 
 ## => Sources
