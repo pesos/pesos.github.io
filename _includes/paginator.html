@@ -51,7 +51,7 @@
             </li>
 
           {%- elsif page == 1 -%}
-            {%- assign _home_path = site.paths.home | default: site.data.variables.default.paths.home -%}
+            {%- assign _home_path = site.paths.blog | default: site.data.variables.default.paths.blog -%}
             {%- include snippets/prepend-baseurl.html path=_home_path -%}
             {%- assign _href = __return -%}
             <li>
