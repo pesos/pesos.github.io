@@ -10,6 +10,7 @@ layout: article
 - [Find Projects you can Contribute to](https://up-for-grabs.net/#/)
 - [Find More Projects you can Contribute to](https://www.codetriage.com/)
 - [Find Issues you can fix here](http://issuehub.io/)
+- [Guide to a novice in the world of programming](https://dev.to/alexmercedcoder/ultimate-basic-coder-reference-bash-git-vscode-nodejs-more-3poa)
 
 
 ## Learn GitHub
@@ -32,6 +33,8 @@ layout: article
 - [The Learn Programming Subreddit](https://www.reddit.com/r/learnprogramming/)
 - [Learn stuff through Games](https://www.twilio.com/quest/missions)
 - [Learn the making of a computer using Open Source Hardware Design](http://www.nand2tetris.org/)
+- [Best 25 programming books of all time](https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel)
+- [A very detailed roadmap to become a full-stack developer](https://dev.to/ender_minyard/full-stack-developer-s-roadmap-2k12)
 
 
 ## Popular Open Source Projects
